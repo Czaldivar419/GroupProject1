@@ -1,4 +1,3 @@
 # GroupProject1
 Group project repo. 
-
-hello im making a change 
+I enjoy JavaScript because it uses functional programming and object oriented programming
